@@ -1,8 +1,3 @@
-Here’s a **`README.md`** file for your GitHub project, written in clear and professional language. It highlights the goal, dataset, algorithms used, and how others can run your code.
-
----
-
-````markdown
 # 🚗 Car Price Prediction Using Machine Learning
 
 This project aims to predict the **selling price of used cars** using multiple machine learning regression models. It builds upon the research paper [An Analysis of Car Price Prediction Using Machine Learning](https://doi.org/10.5281/zenodo.15308198), and extends it with additional models and cross-validation techniques.
